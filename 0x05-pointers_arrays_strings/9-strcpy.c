@@ -26,7 +26,7 @@ int _strlen(char *s)
  * Return: copy of original source
  */
 
-char _strcpy(char *dest, char *src)
+char *_strcpy(char *dest, char *src)
 {
 	int i;
 
