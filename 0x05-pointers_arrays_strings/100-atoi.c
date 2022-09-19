@@ -69,7 +69,7 @@ int _atoi(char *s)
 	int idx_digit_starts = (idx_num_starts(s));
 	int sign;
 	int digits_to_print = 0;
-	int t = 1. i;
+	int t = 1, i;
 	unsigned int num = 0;
 	int digit = (idx_num_starts(s));
 
