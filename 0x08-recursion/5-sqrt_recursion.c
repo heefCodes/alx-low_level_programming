@@ -8,7 +8,7 @@
 
 int root(int n, int rut)
 {
-	if (rut * rut > 0)
+	if (rut * rut > n)
 		return (-1);
 
 	if (rut * rut == n)
