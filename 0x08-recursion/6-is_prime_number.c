@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* prime_number - recursively divide by higher divisor, skip even numbers
+* prime - recursively divide by higher divisor, skip even numbers
 * @n: number to check
 * @divisor: divisor
 * Return: 1 if prime, 0 if not, or recursive function call
