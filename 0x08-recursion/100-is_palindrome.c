@@ -34,7 +34,7 @@ int _strlen(char *s)
 /**
 * is_palindrome - check if it is palindrome
 * @s: string to check
-* Return; 1 if palindrome, 0 if not
+* Return: 1 if palindrome, 0 if not
 */
 
 int is_palindrome(char *s)
