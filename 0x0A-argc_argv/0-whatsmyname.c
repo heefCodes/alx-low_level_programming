@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
   * main - program to print its name
-  *
+  * @argc: argument counter
+  * @argv: pointer to an array string
   * Return: 0
   */
 
