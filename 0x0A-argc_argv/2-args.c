@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-  * main - prints all arguments 
+  * main - prints all arguments
   * @argc: argument conuter
   * @argv: pointer to a array
   * Return: 0
