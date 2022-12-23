@@ -3,9 +3,9 @@
 #include "dog.h"
 
 /**
- * len - find length of string
+ * _strdup - duplicate dog
  * @str: string
- * Return: length
+ * Return: copy
  */
 
 char *_strdup(char *str)
